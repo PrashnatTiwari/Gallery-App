@@ -1,0 +1,15 @@
+.bg-container {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 100vw;
+  font-family: 'Roboto';
+  padding: 10px;
+}
+
+.thumbnails-unordered-list-container {
+  display: flex;
+  justify-content: flex-start;
+}
+.heading {
+  padding-left: 50px;
+}

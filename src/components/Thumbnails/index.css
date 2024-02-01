@@ -1,0 +1,12 @@
+.small-items {
+  height: 5vh;
+  width: 3vw;
+  list-style-type: none;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.thumbnail-image {
+  height: 5vh;
+  width: 3vw;
+}
